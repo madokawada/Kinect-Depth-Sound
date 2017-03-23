@@ -4,11 +4,10 @@
 // https://github.com/shiffman/OpenKinect-for-Processing
 // http://shiffman.net/p5/kinect/
 
-//  "Press 'i' to enable/disable between video image and IR image,  " +
-//  "Press 'c' to enable/disable between color depth and gray scale depth,  " +
-//  "Press 'm' to enable/diable mirror mode, "+
-//  "UP and DOWN to tilt camera   " +
-//  "Framerate: " + int(frameRate), 10, 515);
+//  "Press 'i' to enable/disable between video image and IR image
+//  Press 'c' to enable/disable between color depth and gray scale depth
+//  Press 'm' to enable/diable mirror mode
+//  UP and DOWN to tilt camera   
 
 import org.openkinect.freenect.*;
 import org.openkinect.processing.*;

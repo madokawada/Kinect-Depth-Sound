@@ -27,7 +27,6 @@ class Petal{
   }
   void display() {
     noStroke();
-    //fill(0);
     fill(250, 207, 223, 150);
     rotate(rot);
     ellipse(x, y, 8, 3);

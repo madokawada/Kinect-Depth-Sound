@@ -1,0 +1,21 @@
+Processing source code:
+- Derived from Daniel Shiffman's All features test
+https://github.com/shiffman/OpenKinect-for-Processing
+http://shiffman.net/p5/kinect/
+
+Sounds:
+- Sakura Sakura by anonymous
+https://en.wikipedia.org/wiki/File:Sakura_Sakura.song.ogg
+
+- Cherry Blossom Viewing - Environment sound in a park
+https://www.evernote.com/shard/s62/sh/1108f8a6-de66-41db-b128-4e9318c26256/eac8c5a8e1df03d9e61f2c16e7db90ea
+
+Photos:
+- Cherry Blossom by Unsplash
+https://www.pexels.com/photo/crown-people-surrounded-cherry-blossom-trees-in-daytime-26785/
+
+- Radio by Eric Nopanen
+https://unsplash.com/search/radio?photo=8e0EHPUx3Mo
+
+- Bird by Unsplash
+https://www.pexels.com/photo/sky-flying-animals-birds-4950/
